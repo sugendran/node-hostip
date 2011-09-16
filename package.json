@@ -6,5 +6,6 @@
    "repository": {
      "type": "git",
      "url": "http://github.com/sugendran/node-hostip"
-   }
+   },
+   "main": "hostip"
 }
