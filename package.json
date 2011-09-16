@@ -1,0 +1,10 @@
+{
+   "name": "hostip",
+   "version": "0.0.1",
+   "description": "Resolves the IPs to locations using the hostip.info APIs",
+   "author": "Sugendran Ganess",
+   "repository": {
+     "type": "git",
+     "url": "http://github.com/sugendran/node-hostip"
+   }
+}
